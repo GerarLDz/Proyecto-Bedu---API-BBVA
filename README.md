@@ -8,3 +8,5 @@ El proyecto está realizado tanto en python como R, se utiliza shiny de R para m
 Dashboard al usuraio, y este consume dos programas en Python donde de hace toda la limpieza 
 y preprocesamiento de los datos.
 
+Ejecute el archivo app.R que es modulo principal del proyecto.
+
